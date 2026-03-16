@@ -1,6 +1,17 @@
 # TwinMind Recorder
 
-A professional Android application for recording, transcribing, and summarizing meetings using OpenAI's Whisper and GPT-4o APIs.
+> A professional Android application for recording, transcribing, and summarizing meetings using OpenAI's Whisper and GPT-4o APIs.
+
+---
+
+## 🎥 Demo
+
+> **▶️ [Watch Full Demo on YouTube]([INSERT_YOUTUBE_URL_HER](https://youtu.be/b188Uzo34AE)E)**
+
+[https://youtu.be/b188Uzo34AE]
+
+
+---
 
 ## Overview
 
